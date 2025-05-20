@@ -2,9 +2,9 @@ from pyrogram import Client, filters
 from utils import process_txt, process_url
 import os
 
-api_id = 1234567
-api_hash = "your_api_hash"
-bot_token = "your_bot_token"
+api_id = 28748671
+api_hash = "f53ec7c41ce34e6d585674ed9ce6167c"
+bot_token = "7798474877:AAEOwIKUUrsLgr4gb-ztel10SSzd56a22Mc"
 
 app = Client("drm-bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 
